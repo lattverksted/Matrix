@@ -1,7 +1,7 @@
 # Matrix
 A C++ class that implements a matrix and its basic operations
 
-Matrix is stored as 1D dynamic double array
+Matrix is stored as 1D buffer
 
 scalar product, matrix addition and product
 display method
